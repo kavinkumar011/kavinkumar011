@@ -14,7 +14,15 @@
       "network": "Twitter",
       "username": "kavinkumar",
       "url": "https://twitter.com/kavinkumar011"
+      
     }]
+     },
+    "profiles": [{
+      "network": "github",
+      "username": "kavinkumar",
+      "url": "https://github.com/kavinkumar011"
+     }]
+     
   },
   "education": [{
     "institution": "University",
@@ -27,6 +35,42 @@
     "courses": [
       "Biotechnology"
     ]
+     }],
+     
+    "education": [{
+    "institution": "Frankfinn Institute Of Aviation and Hotel Management",
+    "area": "Aviation and Hotel management",
+    "studyType": "student",
+    "startDate": "2019",
+    "endDate": "2020",
+    "score": "92",
+    "courses": [
+      "Aviation and Hotel Management"
+    ]
+
+  }],
+   "education": [{
+    "institution": "kalaimagal matric hr sec school",
+    "area": "HSC",
+    "studyType": "student",
+    "startDate": "2011",
+    "endDate": "2012",
+    "score": "92",
+    "courses": [
+      "HSC"
+    ]
+  }],
+   
+   "education": [{
+    "institution": "kalaimagal matric hr sec school",
+    "area": "SSLC",
+    "studyType": "student",
+    "startDate": "2013",
+    "endDate": "2014",
+    "score": "95.40",
+    "courses": [
+      "SSLC"
+    ]
   }],
   "skills": [{
     "name": "Web Development",
@@ -36,7 +80,22 @@
       "CSS",
       "JavaScript"
     ]
+    
   }],
+  "skills": [{
+    "Computer knowledge": "MS office,c,c++,Amadeus software,Fidelio software",
+    "level": "student",
+      }],
+       "Academic achievements": [{
+    "web development": "National Biotechnology symposium ",
+    "workshop": "Empowering Employbility skill in the year 2017",
+    "participation": "NSS during 2014 to 2018",
+     "Active member": "social service league in Tamilnadu Agricultural Univerity and santhi Social service,Bharat blood Bank",
+      }],
+      "work experience": [{
+    "work experience": "one year experience as a Front Office Assistant Manager in Laplage hotel in 2020",
+    "level": "Training Front office manager",
+      }],
   "languages": [{
     "language": "Tamil",
     "fluency": "Native speaker,writing"
